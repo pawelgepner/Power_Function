@@ -9,3 +9,6 @@ In this repository you can find all code examples used in article published in E
 - Paweł Gepner 
 - Mariusz Węgrzyn 
 - Grzegorz Nowakowski 
+## BUILD INSTRUCTION
+
+1. Source code  can be found in main.cpp .
